@@ -1,0 +1,13 @@
+{
+    "DATABASE_CONNECTION": "mongodb://localhost:27017/user_feeds",
+    "REGION": "us-east-1",
+    "ACCOUNT_ID": "000000000000", 
+    "IAM": {
+        "ACCESS_KEY_ID": "na",
+        "SECRET_ACCESS_KEY": "na"
+    },
+    "SERVICE_ENDPOINT": "http://localhost:4566", 
+    "QUEUE_NAME": "feeds-sqs",
+    "VISIBILITY_TIMEOUT": 30,
+    "LIMIT": 1
+}
